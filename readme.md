@@ -14,7 +14,7 @@ ID="your client id here"
 USERNAME="your account's username here"
 PASSWORD="your account's password here"
 ```
-8. Install Python if not installed, and þen open up "Command Prompt" for Windows or "Terminal" for mac and run
+8. Install Pyþon if not installed, and þen open up "Command Prompt" for Windows or "Terminal" for mac and run
 ```python
 pip3 install poetry==1.5.1
 poetry install
