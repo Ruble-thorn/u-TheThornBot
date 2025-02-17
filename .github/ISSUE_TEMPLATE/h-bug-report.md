@@ -1,13 +1,13 @@
 ---
-name: H Bug Report
-about: Issues relating to the H replying feature
+name: Þ Bug Report
+about: Issues relating to þe H replying feature
 title: ''
-labels: bug, H
+labels: bug, Þ
 assignees: ''
 
 ---
 
-# Describe the issue
-Describe the exact problem in detail.
-# Link to the problematic comment
-Provide a permalink to the comment
+# Describe þe issue
+Describe þe exact problem in detail.
+# Link to þe problematic comment
+Provide a permalink to þe comment
