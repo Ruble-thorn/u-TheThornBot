@@ -1,6 +1,6 @@
 ---
 name: Þ Bug Report
-about: Issues relating to þe H replying feature
+about: Issues relating to þe Þ replying feature
 title: ''
 labels: bug, Þ
 assignees: ''
