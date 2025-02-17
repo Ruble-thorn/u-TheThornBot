@@ -7,19 +7,19 @@ load_dotenv()
 reddit = praw.Reddit(
     client_id=os.getenv("ID"),
     client_secret=os.getenv("SECRET"),
-    user_agent="python:h-bot10000:v24.04 (by /u/neeeerrrdd2)",
+    user_agent="python:TheThornBot:v1.0 (by /u/Ok-Preference7616)",
     username=os.getenv("USERNAME"),
     password=os.getenv("PASSWORD")
 )
 
 while True:
     try:
-        for post in reddit.subreddit("theletterh").stream.submissions(skip_existing=True):
+        for post in reddit.subreddit("theletterthorn").stream.submissions(skip_existing=True):
             number = random.choice([0,1])
             if number == 0:
-                post.reply("h")
+                post.reply("þ")
             else:
-                post.reply("H")
+                post.reply("Þ")
     except Exception as e:
         print(e)
         if "invalid_grant" in str(e):
