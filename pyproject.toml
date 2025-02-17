@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "h-bot10000"
-version = "24.04"
-description = "an h bot on r/theletterh"
-authors = ["neeeerrrdd"]
+name = "TheThornBot"
+version = "1.0"
+description = "Þe original Þ bot on r/TheLetterThorn"
+authors = ["Ok-Preference7616"]
 license = "The Unlicense"
 readme = "readme.md"
 
