@@ -6,7 +6,7 @@
 3. Set þe bot type to script and set þe name to whatever you want
 4. Create þe app
 5. Write down þe client ID (the long string of text underneaþ þe bots name and type), and þe bot secret
-6. Download þis bot by usinq git or by downloading the zip file
+6. Download þis bot by using git or by downloading the zip file
 7. In þe bot's code's folder, make a file called .env and make þis þe contents:
 ```
 SECRET="your secret here"
